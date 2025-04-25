@@ -2,5 +2,5 @@
 title: Home
 layout: default
 ---
-# Hack Club Jekyll
-Remake of Hack Club theme using Jekyll!
+# Hack Your Club
+Launch you Club website easily with this theme!

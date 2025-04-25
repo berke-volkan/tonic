@@ -1,5 +1,5 @@
 title: Hack Club
-description: "A remake of Hack Club theme on jekyll"
+description: "A Jekyll theme for your Club!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]

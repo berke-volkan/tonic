@@ -1,10 +1,14 @@
-# Tonic Starter
+# Hack Your Club Theme  
+A special Jekyll theme designed for creating awesome websites for your Hack Club!
 
-A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
+This theme makes it easy to build a sleek, fast, and modern site for your club—straight out of the box. Customize it to showcase your club’s events, projects, and team.
 
-This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
+## What is Hack Club?  
+[Hack Club](https://hackclub.com) is a global nonprofit network of high school coding clubs. Students come together to learn by building and sharing projects, with a strong focus on creativity, community, and hands-on learning.  
+Hack Club empowers teens to become makers, coders, and leaders in tech.
 
-# Usage
-1. At the top of this page, select **Use this template** &gt; **Create a new repository** to clone the template to your account.
-2. Create a codespace from the created repository (for beginners) or use `git clone` (for advanced users) to start pushing commits.
-3. Run `gem install jekyll`, then `jekyll serve` to see the template in action.
+## Legal Notice  
+This theme uses the **Phantom Sans** font, which is only licensed for use by Hack Club-affiliated projects and clubs.
+
+> If your club is not yet affiliated with Hack Club, you can apply here:  
+> [https://apply.hackclub.com/](https://apply.hackclub.com/)
