@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Tonic
+A cool Jekyll theme for Tonic!
