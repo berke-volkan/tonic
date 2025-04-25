@@ -1,5 +1,5 @@
-title: Tonic
-description: "A cool Jekyll theme for Tonic!"
+title: Hack Club
+description: "A remake of Hack Club theme on jekyll"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]

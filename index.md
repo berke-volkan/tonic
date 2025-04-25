@@ -2,5 +2,5 @@
 title: Home
 layout: default
 ---
-# Tonic
-A cool Jekyll theme for Tonic!
+# Hack Club Jekyll
+Remake of Hack Club theme using Jekyll!
