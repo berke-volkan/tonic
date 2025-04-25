@@ -1,7 +1,6 @@
 ---
 title: Home
-layout:default
+layout: default
 ---
-
 # Tonic
 A cool Jekyll theme for Tonic!
